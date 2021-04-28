@@ -1,1 +1,1 @@
-# foodnow
+# foodnow.github.com
